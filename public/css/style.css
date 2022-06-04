@@ -680,6 +680,9 @@ h6,
   position: fixed;
   background-color: #fff;
 }
+.header.header-fixed .logo {
+  background: rgba(0,0,0,0.6);
+}
 .main-nav {
   list-style: none;
   padding-left: 0;
