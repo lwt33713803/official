@@ -662,6 +662,7 @@ h6,
 }
 .header .brand .logo {
   height: 5rem;
+  background: rgba(0,0,0,0.6);
 }
 .header.header-absolute,
 .header.header-fixed {
