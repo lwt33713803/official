@@ -677,6 +677,9 @@ h6,
 .header.header-absolute .main-nav .nav-item-link {
   color: #f8f9fa;
 }
+.header.header-absolute .logo {
+  background: none;
+}
 .header.header-fixed {
   position: fixed;
   background-color: #fff;
